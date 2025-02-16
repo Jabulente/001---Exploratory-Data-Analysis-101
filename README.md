@@ -1,13 +1,15 @@
 # U.S. Presidents Heights: Exploratory Data Analysis (EDA)
 
-## Overview
+![U.S. Presidents Heights](Visualizations/Overall_Distributions.png)
+
+### Overview
 
 This project explores the heights of U.S. presidents using Python. Through Exploratory Data Analysis (EDA), we examine trends, distributions, and statistical insights related to presidential heights over time. The analysis includes visualizations, summary statistics, and potential correlations with historical factors.
 
 
 ---
 
-## Dataset
+### Dataset
 
 The dataset contains height measurements of U.S. presidents along with relevant metadata. It typically includes the following columns:
 
@@ -15,14 +17,12 @@ President – Name of the U.S. president
 
 Height (cm) – Height of the president in inches
 
-Year of Birth – Birth year of the president
-
 Presidential Order – The chronological order in which the president served.
 
 
 ---
 
-## Objectives
+### Objectives
 
 - Perform exploratory data analysis on the heights of U.S. presidents.
 
@@ -36,7 +36,7 @@ Presidential Order – The chronological order in which the president served.
 
 ---
 
-## Technologies Used
+### Technologies Used
 
 **Python**
 
@@ -47,24 +47,11 @@ Presidential Order – The chronological order in which the president served.
 **NumPy**: (for numerical computations)
 
 
-
 ---
 
-## Project Structure
-```
-📂 US_Presidents_Heights_EDA  
-│── 📄 README.md             # Project documentation  
-│── 📄 data.csv              # Dataset containing presidential heights  
-│── 📄 eda.ipynb             # Jupyter Notebook for data analysis  
-│── 📂 images/               # Folder for visualization outputs  
-│── 📄 requirements.txt      # Required libraries
-```
+### Exploratory Data Analysis Steps
 
----
-
-## Exploratory Data Analysis Steps
-
-1. **Data Loading & Cleaning**
+#### 1. Data Loading & Cleaning
 
 - Load dataset using Pandas
 
@@ -72,7 +59,7 @@ Presidential Order – The chronological order in which the president served.
 
 
 
-## 2. Summary Statistics
+#### 2. Summary Statistics
 
 - Calculate mean, median, mode, and standard deviation
 
@@ -80,7 +67,7 @@ Presidential Order – The chronological order in which the president served.
 
 
 
-# 3. Data Visualization
+#### 3. Data Visualization
 
 - Histogram and KDE plot for height distribution
 
@@ -88,17 +75,14 @@ Presidential Order – The chronological order in which the president served.
 
 
 
-# 4. Correlation Analysis
+#### 4. Correlation Analysis
 
 - Investigate potential relationships between height and historical time periods
 
 
-
-
-
 ---
 
-# Key Findings
+### Key Findings
 
 - The average height of U.S. presidents is approximately 5 feet 10 inches.
 
@@ -110,26 +94,26 @@ Presidential Order – The chronological order in which the president served.
 
 ---
 
-Installation & Usage
+### Installation & Usage
 
-1. Clone the Repository
+##### 1. Clone the Repository
 ```
 git clone https://github.com/your-username/US_Presidents_Heights_EDA.git
 cd US_Presidents_Heights_EDA
 ```
 
-2. Install Dependencies
+#### 2. Install Dependencies
 
 ``pip install -r requirements.txt``
 
-3. Run the Jupyter Notebook
+##### 3. Run the Jupyter Notebook
 
 ``jupyter notebook eda.ipynb``
 
 
 ---
 
-## Contributing
+### Contributing
 
 Contributions are welcome! If you find errors or have suggestions, feel free to submit an issue or a pull request.
 
