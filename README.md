@@ -19,6 +19,8 @@ Height (cm) – Height of the president in inches
 
 Presidential Order – The chronological order in which the president served.
 
+![U.S. Presidents Heights](Visualizations/Dataset.png)
+
 
 ---
 
@@ -98,15 +100,10 @@ Presidential Order – The chronological order in which the president served.
 
 ##### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/US_Presidents_Heights_EDA.git
-cd US_Presidents_Heights_EDA
+git clone https://github.com/Jabulente/Exploratory-Data-Analysis-EDA-of-U.S.-Presidents-Heights-Dataset.git
 ```
 
-#### 2. Install Dependencies
-
-``pip install -r requirements.txt``
-
-##### 3. Run the Jupyter Notebook
+##### 2. Run the Jupyter Notebook
 
 ``jupyter notebook eda.ipynb``
 
