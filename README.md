@@ -15,11 +15,11 @@ The dataset contains height measurements of U.S. presidents along with relevant 
 
 President – Name of the U.S. president
 
-Height (cm) – Height of the president in inches
+Height (cm) – Height of the president in centimeters
 
 Presidential Order – The chronological order in which the president served.
 
-![U.S. Presidents Heights](Visualizations/Dataset.png)
+![U.S. Presidents Heights](Visualizations/Dataset.jpg)
 
 
 ---
@@ -81,20 +81,8 @@ Presidential Order – The chronological order in which the president served.
 
 - Investigate potential relationships between height and historical time periods
 
+----
 
----
-
-### Key Findings
-
-- The average height of U.S. presidents is approximately 5 feet 10 inches.
-
-- The tallest president is Abraham Lincoln (6 feet 4 inches), while the shortest is James Madison (5 feet 4 inches).
-
-- Over time, there has been a trend toward taller presidents.
-
-
-
----
 
 ### Installation & Usage
 
@@ -105,7 +93,7 @@ git clone https://github.com/Jabulente/Exploratory-Data-Analysis-EDA-of-U.S.-Pre
 
 ##### 2. Run the Jupyter Notebook
 
-``jupyter notebook eda.ipynb``
+``jupyter notebook US Presidents Height Datasets EDA.ipynb``
 
 
 ---
@@ -120,16 +108,6 @@ Contributions are welcome! If you find errors or have suggestions, feel free to 
 ## License
 
 This project is licensed under the MIT License.
-
-
----
-
-## Acknowledgments
-
-Data sourced from publicly available records.
-
-Inspired by various historical data analysis projects.
-
 
 
 ---
