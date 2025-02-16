@@ -38,7 +38,7 @@ Presidential Order – The chronological order in which the president served.
 
 ## Technologies Used
 
-Python
+**Python**
 
 **Pandas**: (for data manipulation)
 
@@ -50,7 +50,7 @@ Python
 
 ---
 
-Project Structure
+## Project Structure
 ```
 📂 US_Presidents_Heights_EDA  
 │── 📄 README.md             # Project documentation  
@@ -62,37 +62,35 @@ Project Structure
 
 ---
 
-Exploratory Data Analysis Steps
+## Exploratory Data Analysis Steps
 
-1. Data Loading & Cleaning
+1. **Data Loading & Cleaning**
 
-Load dataset using Pandas
+- Load dataset using Pandas
 
-Check for missing values and inconsistencies
-
-
-
-2. Summary Statistics
-
-Calculate mean, median, mode, and standard deviation
-
-Determine the tallest and shortest presidents
+- Check for missing values and inconsistencies
 
 
 
-3. Data Visualization
+## 2. Summary Statistics
 
-Histogram and KDE plot for height distribution
+- Calculate mean, median, mode, and standard deviation
 
-Boxplot to analyze outliers
-
-Line plot to visualize height trends over time
+- Determine the tallest and shortest presidents
 
 
 
-4. Correlation Analysis
+# 3. Data Visualization
 
-Investigate potential relationships between height and historical time periods
+- Histogram and KDE plot for height distribution
+
+- Line plot to visualize height trends over time
+
+
+
+# 4. Correlation Analysis
+
+- Investigate potential relationships between height and historical time periods
 
 
 
@@ -100,13 +98,13 @@ Investigate potential relationships between height and historical time periods
 
 ---
 
-Key Findings
+# Key Findings
 
-The average height of U.S. presidents is approximately 5 feet 10 inches.
+- The average height of U.S. presidents is approximately 5 feet 10 inches.
 
-The tallest president is Abraham Lincoln (6 feet 4 inches), while the shortest is James Madison (5 feet 4 inches).
+- The tallest president is Abraham Lincoln (6 feet 4 inches), while the shortest is James Madison (5 feet 4 inches).
 
-Over time, there has been a trend toward taller presidents.
+- Over time, there has been a trend toward taller presidents.
 
 
 
@@ -115,36 +113,37 @@ Over time, there has been a trend toward taller presidents.
 Installation & Usage
 
 1. Clone the Repository
-
+```
 git clone https://github.com/your-username/US_Presidents_Heights_EDA.git
 cd US_Presidents_Heights_EDA
+```
 
 2. Install Dependencies
 
-pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 3. Run the Jupyter Notebook
 
-jupyter notebook eda.ipynb
+``jupyter notebook eda.ipynb``
 
 
 ---
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you find errors or have suggestions, feel free to submit an issue or a pull request.
 
 
 ---
 
-License
+## License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-Acknowledgments
+## Acknowledgments
 
 Data sourced from publicly available records.
 
@@ -154,14 +153,10 @@ Inspired by various historical data analysis projects.
 
 ---
 
-🔗 Connect with Me
+## 📢 Connect with Me  
 
-If you have any questions or feedback, feel free to reach out:
-📧 Email: your-email@example.com
-📌 GitHub: Your GitHub Profile
-
-
----
-
-This README provides a clear, structured overview of the project. Let me know if you need modifications!
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jabulente)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabulente-208019349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Jabulente)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@Jabulente)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255742508450)
